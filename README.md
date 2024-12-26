@@ -1,2 +1,2 @@
-# cursoemvideohtml5
- material do curso html5 e css3 do curso em vídeo
+# Projeto Site com Vitão
+objetivo do site: me apresentar e, desse modo, agregar no portifólio
